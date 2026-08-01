@@ -1,0 +1,8 @@
+node_modules/
+.next/
+.vercel/
+*.tsbuildinfo
+out/
+.env*
+!.env.example
+vercel.json
